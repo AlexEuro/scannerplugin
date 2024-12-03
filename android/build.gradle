@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.uc.receive_sharing_intent'
+    namespace 'com.unicosm.receive_sharing_intent'
     compileSdkVersion 31
 
     sourceSets {
