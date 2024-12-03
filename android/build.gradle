@@ -29,7 +29,7 @@ android {
         namespace = "com.uc.scanner_intent"
     }
 
-    compileSdk = 34
+    compileSdk = 31
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -46,7 +46,7 @@ android {
     }
 
     defaultConfig {
-        minSdk = 21
+        minSdk = 16
     }
 
     dependencies {
